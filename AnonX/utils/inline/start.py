@@ -16,7 +16,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="❤️𝐎ɯɳҽ𝐑❤️",
-                url=f"https://t.me/loveguruo",
+                url=f"https://t.me/l_SARKAR_OP_l",
             )
         ],
         [
