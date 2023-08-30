@@ -479,16 +479,16 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/The_Incricible"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/loveguruoo"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Incricible"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/RICH_OF_HEART"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Your_Godfather_xd"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/loveguruo"
             ),
         
             InlineKeyboardButton(
