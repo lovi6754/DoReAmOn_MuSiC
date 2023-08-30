@@ -23,7 +23,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 ϝαƚԋҽ𝐑 🌹", url=f"https://t.me/loveguruo")
+                        "🌹 ϝαƚԋҽ𝐑 🌹", url=f"https://t.me/l_SARKAR_OP_l")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 ϝαƚԋҽ𝐑 🌹", url=f"https://t.me/loveguruo")
+                        "🌹 ϝαƚԋҽ𝐑 🌹", url=f"https://t.me/l_SARKAR_OP_l")
                 ]
             ]
         ),
