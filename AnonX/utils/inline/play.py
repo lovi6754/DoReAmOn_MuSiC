@@ -244,7 +244,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/loveguruo"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/l_SARKAR_OP_l"
             ),
         
             InlineKeyboardButton(
@@ -488,7 +488,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/loveguruo"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/l_SARKAR_OP_l"
             ),
         
             InlineKeyboardButton(
